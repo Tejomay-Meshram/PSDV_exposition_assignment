@@ -1555,6 +1555,6 @@ Documentatiom & Articles
 * [(Plotly + Datashader) Visualizing Large Geospatial Datasets](https://medium.com/tech-carnot/plotly-datashader-visualizing-large-geospatial-datasets-bea27b9d7824)
 
 Youtube Resources
-* [Big Data Visualization Using Datashader in Python | How does Datashader work and why is it so fast?](https://youtu.be/U6dyIRolIhI?si=nJQjI4jAyVClEr2a)
-* [Datashader Revealing the Structure of Genuinely Big Data | SciPy 2016 | James A Bednar](https://youtu.be/6m3CFbKmK_c?si=O1juqw58f7O0Z2AC)
-* [Datashader in 15 Minutes | Machine Learning & Data Science ](https://youtu.be/n4cFwPan59I?si=JXC12aLPWaZOtugs)
+* [Big Data Visualization Using Datashader in Python | How does Datashader work and why is it so fast?](https://youtube/U6dyIRolIhI?si=nJQjI4jAyVClEr2a)
+* [Datashader Revealing the Structure of Genuinely Big Data | SciPy 2016 | James A Bednar](https://youtube/6m3CFbKmK_c?si=O1juqw58f7O0Z2AC)
+* [Datashader in 15 Minutes | Machine Learning & Data Science ](https://youtube/n4cFwPan59I?si=JXC12aLPWaZOtugs)
